@@ -13,7 +13,14 @@ import React, { ChangeEvent, useState } from "react";
 import Location from "./Location";
 
 const Accordion = withStyles({
-  root: { margin: 8, "&$expanded": { margin: 8 } },
+  root: {
+    margin: 8,
+    "&$expanded": {
+      margin: 8,
+      '&:first-child': { marginTop: 8 },
+      '&:last-child': { marginBottom: 8 }
+    }
+  },
   rounded: { borderRadius: 4 },
   expanded: {}
 })(MuiAccordion);
