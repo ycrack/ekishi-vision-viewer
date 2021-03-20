@@ -1,0 +1,113 @@
+[
+  {
+    "number": "KK01",
+    "name": "品川",
+    "locations": [
+      { "id": 1, "name": "高輪口改札" },
+      { "id": 2, "name": "JR連絡口(泉岳寺側)改札" },
+      { "id": 3, "name": "JR連絡口(浦賀側)改札" }
+    ]
+  },
+  {
+    "number": "KK11",
+    "name": "京急蒲田",
+    "locations": [
+      { "id": 1, "name": "改札" }
+    ]
+  },
+  {
+    "number": "KK15",
+    "name": "天空橋",
+    "locations": [
+      { "id": 1, "name": "中央口改札" },
+      { "id": 2, "name": "モノレール連絡口(浜松町方面)改札" },
+      { "id": 3, "name": "ＨＩＣｉｔｙ口改札" },
+      { "id": 4, "name": "モノレール連絡口(新整備場方面)改札" }
+    ]
+  },
+  {
+    "number": "KK16",
+    "name": "羽田空港第３ターミナル",
+    "locations": [
+      { "id": 1, "name": "２Ｆ改札" },
+      { "id": 2, "name": "Ｂ２改札" }
+    ]
+  },
+  {
+    "number": "KK17",
+    "name": "羽田空港第１・第２ターミナル",
+    "locations": [
+      { "id": 1, "name": "第１旅客ターミナル口改札" },
+      { "id": 2, "name": "第２旅客ターミナル口改札" }
+    ]
+  },
+  {
+    "number": "KK20",
+    "name": "京急川崎",
+    "locations": [
+      { "id": 1, "name": "中央口改札" }
+    ]
+  },
+  {
+    "number": "KK29",
+    "name": "京急鶴見",
+    "locations": [
+      { "id": 1, "name": "改札" }
+    ]
+  },
+  {
+    "number": "KK35",
+    "name": "京急東神奈川",
+    "locations": [
+      { "id": 1, "name": "３Ｆ改札" },
+      { "id": 2, "name": "１Ｆ改札" }
+    ]
+  },
+  {
+    "number": "KK37",
+    "name": "横浜",
+    "locations": [
+      { "id": 1, "name": "中央改札" },
+      { "id": 2, "name": "JR連絡口改札" },
+      { "id": 3, "name": "南改札" },
+      { "id": 4, "name": "北改札" }
+    ]
+  },
+  {
+    "number": "KK39",
+    "name": "日ノ出町",
+    "locations": [
+      { "id": 1, "name": "改札" }
+    ]
+  },
+  {
+    "number": "KK44",
+    "name": "上大岡",
+    "locations": [
+      { "id": 1, "name": "中央口改札" },
+      { "id": 2, "name": "京急百貨店口改札" },
+      { "id": 3, "name": "３Ｆ百貨店口改札" }
+    ]
+  },
+  {
+    "number": "KK46",
+    "name": "杉田",
+    "locations": [
+      { "id": 1, "name": "改札" }
+    ]
+  },
+  {
+    "number": "KK50",
+    "name": "金沢八景",
+    "locations": [
+      { "id": 1, "name": "橋上駅舎口改札" }
+    ]
+  },
+  {
+    "number": "KK57",
+    "name": "逸見",
+    "locations": [
+      { "id": 1, "name": "改札" }
+    ]
+  }
+]
