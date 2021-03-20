@@ -3,6 +3,11 @@ import { AppBar, createStyles, makeStyles, Toolbar, Typography, useTheme } from 
 const useStyles = makeStyles((theme) =>
   createStyles({
     root: { flexGrow: 1 },
+    toolbar: {
+      height: 64,
+      paddingLeft: 16,
+      paddingRight: 16,
+    },
     menuButton: { marginRight: theme.spacing(2) },
     title: { marginLeft: theme.spacing(1) }
   })
@@ -23,7 +28,7 @@ const Header: React.FC<HeaderProps> = (props) => {
       className={classes.root}
       style={{ backgroundColor: props.color || theme.palette.primary.main }}
     >
-      <Toolbar>
+      <Toolbar className={classes.toolbar}>
         <img
           alt="けいきゅん"
           src="https://apl.keikyu.co.jp/kk_apl/static/images/favicon.ico"
