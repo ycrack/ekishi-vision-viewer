@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "keikyu-ekishi-vision",
+  "name": "ekishi-vision-viewer",
   "version": "0.1.0",
   "description": "",
   "main": "src/index.tsx",
@@ -10,15 +10,12 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ycrack/keikyu-ekishi-vision.git"
-  },
+  "repository": "github:ycrack/ekishi-vision-viewer",
   "keywords": [],
   "author": "ycrack <dev.ycrack@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ycrack/keikyu-ekishi-vision/issues"
+    "url": "https://github.com/ycrack/ekishi-vision-viewer/issues"
   },
   "dependencies": {
     "@material-ui/core": "^4.11.4",
